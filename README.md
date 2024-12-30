@@ -1,3 +1,4 @@
 # Webfont List
 
 - Pretendard
+- Paperlogy
