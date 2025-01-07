@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: 'GmarketSans';
+    src: url('https://marron-de.github.io/webfont/GmarketSans/GmarketSansLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSans';
+    src: url('https://marron-de.github.io/webfont/GmarketSans/GmarketSansMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSans';
+    src: url('https://marron-de.github.io/webfont/GmarketSans/GmarketSansBold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}

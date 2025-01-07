@@ -2,3 +2,5 @@
 
 - Pretendard
 - Paperlogy
+- GmarketSans
+
